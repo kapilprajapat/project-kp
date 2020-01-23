@@ -2,6 +2,6 @@
 #include<conio.h>
 int main()
 {
-	printf("hey guys");
+	printf("\n its \n your \n boi");
 	getch();
 }
