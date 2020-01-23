@@ -2,6 +2,12 @@
 #include<conio.h>
 int main()
 {
-	printf("\n its \n your \n boi");
+	int a,b,c;
+    printf("\n Enter a\n and b");
+	scanf("%d%d",&a,&b);
+	c=a+b;
+	printf("Ans is %d",c);
 	getch();
+
+
 }
